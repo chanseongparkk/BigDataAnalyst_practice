@@ -1,4 +1,4 @@
-# BigDataAnalyst_practise
+# BigDataAnalyst_practice
 
 **3회차 빅데이터 분석기사 실기를 준비했던 코드를 기록합니다.**
 
